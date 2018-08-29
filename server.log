@@ -1,0 +1,5 @@
+[Tue Aug 14 14:53:29 2018] 127.0.0.1:59482 [200]: /test.html
+[Tue Aug 14 14:53:29 2018] 127.0.0.1:59486 [404]: /favicon.ico - No such file or directory
+[Tue Aug 14 14:53:29 2018] 127.0.0.1:59488 [404]: /favicon.ico - No such file or directory
+[Tue Aug 14 14:53:29 2018] 127.0.0.1:59490 [200]: /test.html
+[Tue Aug 14 14:53:29 2018] 127.0.0.1:59492 [200]: /test.html
